@@ -573,3 +573,6 @@ footer button.show{
     color:var(--second-color);
     background:var(--main-color);
 }
+#claim{
+    display: none;
+}
